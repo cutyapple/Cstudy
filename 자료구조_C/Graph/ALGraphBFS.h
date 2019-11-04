@@ -25,4 +25,4 @@ void ShowGraphEdgeInfo(ALGraph* pg);
 
 void BFShowGraphVertex(ALGraph* pg, int startV);
 
-#endif // !__AL_GRAPH__
+#endif 

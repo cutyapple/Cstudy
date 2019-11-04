@@ -3,7 +3,7 @@
 
 int main(void) {
 	ALGraph graph;
-	GraphInit(&graph, 7);
+	GraphInit(&graph, 7); 
 
 	AddEdge(&graph, A, B);
 	AddEdge(&graph, A, D);
