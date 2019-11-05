@@ -45,8 +45,17 @@ print(f"{words}")
 ```
 
 # 인용 상자(Blockquotes)
->   '>'표시로 인용 상자를 만듭니다.
->   CutyApple!
+>   '>'표시로 인용 상자를 만듭니다. 
+CutyApple!
+
+
+# 강조(Emphasis)
+*Italic*
+_Italic_
+**bold**
+__bold__
+> '*word* or _word_ => italic'   
+>'**word** or __word__ => bold'
 
 
 ### CutyApple
