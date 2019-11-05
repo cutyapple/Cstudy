@@ -43,10 +43,11 @@
 words = "Hello, CutyApple!"
 print(f"{words}")
 ```
+> '```Code```'
 
 # 인용 상자(Blockquotes)
->   '>'표시로 인용 상자를 만듭니다. 
-CutyApple!
+>'> blabla...'.   
+>CutyApple!
 
 
 # 강조(Emphasis)
@@ -56,6 +57,15 @@ _Italic_
 __bold__
 > '*word* or _word_ => italic'   
 >'**word** or __word__ => bold'
+
+# 테이블(Tables)
+  A  |  B  
+-----|-----
+cell1|cell2
+ col1|col2
+> 'Head1|Head2'  
+> '-----|-----'   
+> 'cell1|cell2'
 
 
 ### CutyApple
