@@ -37,4 +37,11 @@
 # 하이퍼링크(Links)
 형식 : [이름] (주소)
 
+# 코드 블록(Code Blocks)  
+해당 프로그래밍 언어와 구문 구별 표시를 적용한 코드를 볼 수 있습니다.
+``` python
+words = "Hello, CutyApple!"
+print(f"{words}")
+```
+
 ### CutyApple
