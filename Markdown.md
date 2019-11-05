@@ -16,13 +16,13 @@
 
 
 # 목록(Lists)
-<Unordered>
+[Unordered]
 * Item 1
 * Item 2
     * Items a
     * Items b
 
-<Ordered>
+[Ordered]
 1. A 1
 2. A 2
 3. A 3
