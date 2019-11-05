@@ -79,7 +79,24 @@ cell1|cell2
 # 인라인 코드(Inline code)
 
 문장 중간에 코드를 넣는 법은 `print("Like This!")` 요로코롬!
-> 'bla...`code`blabla...'   
+> 'bla...`code`blabla...'    
+
+# 수평선(hr)
+---
+***
+> '---'   
+> '***'   
+
+
+# 탈출 문자(Backslash Escapes)
+\*bla\*
+*bla*
+__\*\*blabla\*\*__
+_\_blabla\__
+> '\*bla\*'       
+> '*bla*'   
+> '__\*\*blabla\*\*__'   
+> '_\_blabla\__'      
 
 
 ### CutyApple
