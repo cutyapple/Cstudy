@@ -102,7 +102,7 @@ _\_blabla\__
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
-> '\*:+1:\* \*:sparkles:\* :camel: :tada:'   
+> '\*\*:+1:\*\*' '\*\*:sparkles:\*\*' '\*\*:camel: :tada:\*\*'   
 > ':rocket: :metal: :octocat:'   
 
 # 배지
