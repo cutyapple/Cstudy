@@ -72,11 +72,14 @@ cell1|cell2
 - [ ] It isn't complete...     
 - [X] Is CutyApple really Cute?   
 
-> '- [x] blabla'
-> '- [ ] bla'
-> '- [X] blablabla'
+> '- [x] blabla'    
+> '- [ ] bla'    
+> '- [X] blablabla'    
 
-# 인라인 코드()
+# 인라인 코드(Inline code)
+
+문장 중간에 코드를 넣는 법은 `print("Like This!")` 요로코롬!
+> 'bla...`code`blabla...'   
 
 
 ### CutyApple
